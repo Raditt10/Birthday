@@ -3,7 +3,7 @@
   publish = "build"
 
 [build.environment]
-  NODE_VERSION = "16"
+  NODE_VERSION = "18.18.0"
 
 [[plugins]]
   package = "@netlify/plugin-pnpm-install"
