@@ -12,9 +12,9 @@
     "react-scripts": "3.4.3"
   },
 "scripts": {
-  "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-  "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
-  "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
   "eslintConfig": {
